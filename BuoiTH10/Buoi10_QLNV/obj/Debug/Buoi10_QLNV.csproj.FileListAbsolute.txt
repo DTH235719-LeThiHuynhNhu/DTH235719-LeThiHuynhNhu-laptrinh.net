@@ -1,0 +1,11 @@
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\bin\Debug\Buoi10_QLNV.exe.config
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\bin\Debug\Buoi10_QLNV.exe
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\bin\Debug\Buoi10_QLNV.pdb
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.csproj.AssemblyReference.cache
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.Form1.resources
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.Properties.Resources.resources
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.csproj.GenerateResource.cache
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.csproj.CoreCompileInputs.cache
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.exe
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.pdb
+D:\LAPTRINHdotNET\BuoiTH10\Buoi10_QLNV\obj\Debug\Buoi10_QLNV.exe.config

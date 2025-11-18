@@ -1,0 +1,12 @@
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.csproj.AssemblyReference.cache
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.Form1.resources
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.Form2.resources
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.Form3.resources
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.Properties.Resources.resources
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.csproj.GenerateResource.cache
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.csproj.CoreCompileInputs.cache
+Z:\my\BuoiTH4\Buoi4_bai3\bin\Debug\Buoi4_bai3.exe.config
+Z:\my\BuoiTH4\Buoi4_bai3\bin\Debug\Buoi4_bai3.exe
+Z:\my\BuoiTH4\Buoi4_bai3\bin\Debug\Buoi4_bai3.pdb
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.exe
+Z:\my\BuoiTH4\Buoi4_bai3\obj\Debug\Buoi4_bai3.pdb

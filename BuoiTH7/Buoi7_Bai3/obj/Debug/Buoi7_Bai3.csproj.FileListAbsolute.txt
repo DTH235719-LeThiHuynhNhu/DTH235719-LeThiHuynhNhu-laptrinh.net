@@ -1,0 +1,11 @@
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\bin\Debug\Buoi7_Bai3.exe.config
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\bin\Debug\Buoi7_Bai3.exe
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\bin\Debug\Buoi7_Bai3.pdb
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.csproj.AssemblyReference.cache
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.Form1.resources
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.Properties.Resources.resources
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.csproj.GenerateResource.cache
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.csproj.CoreCompileInputs.cache
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.exe
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.pdb
+C:\Users\tramy\Downloads\BuoiTH7\Buoi7_Bai3\obj\Debug\Buoi7_Bai3.exe.config

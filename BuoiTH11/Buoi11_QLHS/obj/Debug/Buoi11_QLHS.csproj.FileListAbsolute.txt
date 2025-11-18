@@ -1,0 +1,11 @@
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.csproj.AssemblyReference.cache
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.Form1.resources
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.Properties.Resources.resources
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.csproj.GenerateResource.cache
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.csproj.CoreCompileInputs.cache
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\bin\Debug\Buoi11_QLHS.exe.config
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\bin\Debug\Buoi11_QLHS.exe
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\bin\Debug\Buoi11_QLHS.pdb
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.exe
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.pdb
+D:\LAPTRINHdotNET\BuoiTH11\Buoi11_QLHS\obj\Debug\Buoi11_QLHS.exe.config

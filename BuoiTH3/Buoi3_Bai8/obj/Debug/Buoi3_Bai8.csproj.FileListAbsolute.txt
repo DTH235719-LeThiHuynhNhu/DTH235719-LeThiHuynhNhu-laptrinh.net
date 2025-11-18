@@ -1,0 +1,10 @@
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\bin\Debug\Buoi3_Bai8.exe.config
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\bin\Debug\Buoi3_Bai8.exe
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\bin\Debug\Buoi3_Bai8.pdb
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\obj\Debug\Buoi3_Bai8.csproj.AssemblyReference.cache
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\obj\Debug\Buoi3_Bai8.Form1.resources
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\obj\Debug\Buoi3_Bai8.Properties.Resources.resources
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\obj\Debug\Buoi3_Bai8.csproj.GenerateResource.cache
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\obj\Debug\Buoi3_Bai8.csproj.CoreCompileInputs.cache
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\obj\Debug\Buoi3_Bai8.exe
+D:\LAPTRINHdotNET\BuoiTH3\Buoi3_Bai8\obj\Debug\Buoi3_Bai8.pdb

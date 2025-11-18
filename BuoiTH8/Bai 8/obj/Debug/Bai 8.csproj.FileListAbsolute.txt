@@ -1,0 +1,13 @@
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai 8.csproj.AssemblyReference.cache
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai_8.Form1.resources
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai_8.Form2.resources
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai_8.Form3.resources
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai_8.Form4.resources
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai_8.Properties.Resources.resources
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai 8.csproj.GenerateResource.cache
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai 8.csproj.CoreCompileInputs.cache
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\bin\Debug\Bai 8.exe.config
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\bin\Debug\Bai 8.exe
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\bin\Debug\Bai 8.pdb
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai 8.exe
+D:\LAPTRINHdotNET\BuoiTH8\Bai 8\obj\Debug\Bai 8.pdb
